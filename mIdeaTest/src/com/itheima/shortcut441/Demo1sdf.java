@@ -15,6 +15,6 @@ public class Demo1sdf {
         }
 //        System.out.println(str);
         System.out.println(System.currentTimeMillis() - start);
-        System.out.println(255);
+        System.out.println("test风之");
     }
 }
